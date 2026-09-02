@@ -24,6 +24,16 @@
             "label": "id:2-handed",
             "numPlayers": 2,
             "layoutId": "layout2Handed"
+        },
+        {
+            "label": "id:layout3PlayerEven",
+            "numPlayers": 3,
+            "layoutId": "layout3PlayerEven"
+        },
+        {
+            "label": "id:layout4PlayerEven",
+            "numPlayers": 4,
+            "layoutId": "layout4PlayerEven"
         }
     ]
 }

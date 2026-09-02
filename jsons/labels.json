@@ -796,6 +796,24 @@
             "German": "4 Spieler",
             "Chinese": "四名玩家"
         },
+        "layout3PlayerEven": {
+            "English": "3 players (equal space)",
+            "French": "3 joueurs (espace égal)",
+            "Spanish": "3 jugadores (espacio igual)",
+            "Portuguese": "3 jogadores (espaço igual)",
+            "Italian": "3 giocatori (spazio uguale)",
+            "German": "3 Spieler (gleicher Platz)",
+            "Chinese": "三名玩家（等分空间）"
+        },
+        "layout4PlayerEven": {
+            "English": "4 players (equal space)",
+            "French": "4 joueurs (espace égal)",
+            "Spanish": "4 jugadores (espacio igual)",
+            "Portuguese": "4 jogadores (espaço igual)",
+            "Italian": "4 giocatori (spazio uguale)",
+            "German": "4 Spieler (gleicher Platz)",
+            "Chinese": "四名玩家（等分空间）"
+        },
         "layout1PlayerMap": {
             "English": "1 player (Map)",
             "French": "1 joueur (Carte)",
